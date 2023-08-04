@@ -7,7 +7,9 @@ To run this one needs to have Apache Tomcat servers running locally.
 
 Running the following commands
 dir /s /b * .java > sources.txt && javac -cp WEB-INF\lib\* -d WEB-INF\classes @sources.txt
+
 jar -cvf myapp.war *
+
 copy myapp.war C:\xampp\tomcat\webapps
 
 This should establish the connection of the webapp with the localhost and it should start running
