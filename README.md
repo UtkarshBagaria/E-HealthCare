@@ -2,7 +2,7 @@
 
 A HealthCare WebApp created using JSP while following OOPs principles. The WebApp can be used by Healthcare specialists as well as patients depending on the user role. 
 
-Having seperate Views for each webpage to follow the MVC architecture.
+Having separate Views for each webpage to follow the MVC architecture.
 To run this one needs to have Apache Tomcat servers running locally.
 
 Running the following commands
